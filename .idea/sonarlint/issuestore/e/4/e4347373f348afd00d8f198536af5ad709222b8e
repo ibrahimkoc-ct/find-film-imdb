@@ -1,0 +1,13 @@
+
+i	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ
+d	java:S116	"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÀÿ±
+b	java:S116"MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÖÒß
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¯Õ¹øÿÿÿÿ
+h	java:S116
+"NRename this field "Url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‘ãðùÿÿÿÿ
+†
+java:S1319"pThe type of the "casts" object should be an interface such as "List" rather than the implementation "ArrayList".(òÉº‘
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ýô¥ñùÿÿÿÿ
+p	java:S116"VRename this field "Description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¼Â­ùÿÿÿÿ
+e	java:S116"PRename this field "Casts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì­®Õ

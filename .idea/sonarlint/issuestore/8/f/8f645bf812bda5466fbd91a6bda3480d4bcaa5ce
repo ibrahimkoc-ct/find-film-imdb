@@ -1,0 +1,45 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(í³òš
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(Á´ùø
+m
+java:S1104"RMake panel1 a static final constant or non-public and provide accessors if needed.(•«¡òùÿÿÿÿ
+>
+java:S1481¬"'Remove this unused "mv" local variable.(œÚÈì
+V
+java:S1128"@Remove this unused import 'jdk.swing.interop.SwingInterOpUtils'.(ñ©Ìë
+{
+java:S1149ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï„Š¡þÿÿÿÿ
+f	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖñýA
+Q	java:S125j"<This block of commented-out lines of code should be removed.(èÂËÐ
+F
+java:S2093í"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S3740ª"/Provide the parametrized type for this generic.(®–Èþ
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¤÷•«ýÿÿÿÿ
+F
+java:S3740ª"/Provide the parametrized type for this generic.(®–Èþ
+Q	java:S125E"<This block of commented-out lines of code should be removed.(€©ˆ¡
+E
+java:S1481!"*Remove this unused "frame" local variable.(³ìª™þÿÿÿÿ
+O
+java:S1068"4Remove this unused "labelDescription" private field.(¾”Ö‘ÿÿÿÿÿ
+E
+java:S1948"*Make "castPhotosUrl" private or transient.(ŽÇŒõüÿÿÿÿ
+E
+java:S1948"/Make "castMovieList" transient or serializable.(‹œê
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(’êîÎ
+B
+java:S1481ó"+Remove this unused "status" local variable.(¥õŠ
+B
+java:S1948",Make "postedCast" transient or serializable.(ûò°¾
+X
+java:S2259€"AA "NullPointerException" could be thrown; "con" is nullable here.(½ç±˜
+—
+java:S1130 "|Remove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from constructor's body.(¤÷•«ýÿÿÿÿ
+Q	java:S125u"<This block of commented-out lines of code should be removed.(èÂËÐ
+?
+java:S1604Ò"(Make this anonymous inner class a lambda(¼äù§
+D
+java:S1604½"(Make this anonymous inner class a lambda(ù¢¶‹üÿÿÿÿ

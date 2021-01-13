@@ -1,0 +1,92 @@
+
+K
+java:S3740Å"/Provide the parametrized type for this generic.(Õîâ¢ùÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(é’õ”þÿÿÿÿ
+]
+java:S1075š"ARefactor your code to get this URI from a customizable parameter.(˜’¬îùÿÿÿÿ
+{
+java:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï„Š¡þÿÿÿÿ
+D
+java:S1604ð"(Make this anonymous inner class a lambda(¯°ðëþÿÿÿÿ
+h
+java:S2095›"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ê¹‰©øÿÿÿÿ
+_
+java:S1854æ"CRemove this useless assignment to local variable "gÃ¶nderilenCast".(°£íÛüÿÿÿÿ
+C
+java:S1604;"(Make this anonymous inner class a lambda(ÊÞ’ƒýÿÿÿÿ
+o
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(éÓØ–
+L
+java:S1117R"6Rename "mv" which hides the field declared at line 32.(®ó³Ù
+Q
+java:S1854¼"5Remove this useless assignment to local variable "c".(¸øÀ÷úÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(¢åùù
+Q
+java:S1854ù"5Remove this useless assignment to local variable "c".(¸øÀ÷úÿÿÿÿ
+W	java:S125Ð"<This block of commented-out lines of code should be removed.(Ä¨ƒþÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Û£èä
+l	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°£íÛüÿÿÿÿ
+X
+java:S2259Ð"AA "NullPointerException" could be thrown; "con" is nullable here.(½ç±˜
+K
+java:S3740Ù"/Provide the parametrized type for this generic.(Åµ€‡þÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(Àûå 
+g
+java:S1192”"KDefine a constant instead of duplicating this literal "<a href=\"" 6 times.(‰±ÿêþÿÿÿÿ
+B
+java:S1481Ã"+Remove this unused "status" local variable.(¥õŠ
+E
+java:S3740"/Provide the parametrized type for this generic.(¡ŒÚ“
+`
+java:S3252³"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+K
+java:S3740Ì"/Provide the parametrized type for this generic.(¶¯°…ÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ÏåÙáþÿÿÿÿ
+m
+java:S11922"RDefine a constant instead of duplicating this literal "D:\\watchList.txt" 3 times.(æ¢Ö©ýÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(¢ž†ö
+E
+java:S3740"/Provide the parametrized type for this generic.(¹ãõ
+K
+java:S3740Ì"/Provide the parametrized type for this generic.(¶¯°…ÿÿÿÿÿ
+?
+java:S1604â"(Make this anonymous inner class a lambda(ð´ÔÕ
+Q
+java:S1128";Remove this unused import 'javax.management.relation.Role'.(ëÎåè
+e	java:S116"PRename this field "Casts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ãõ
+Q
+java:S1854³"5Remove this useless assignment to local variable "c".(¸øÀ÷úÿÿÿÿ
+M
+java:S1854é"6Remove this useless assignment to local variable "nf".(õ‡Ž¡
+I
+java:S1128".Remove this unused import 'java.util.EnumSet'.(ÍäÚ“úÿÿÿÿ
+n
+java:S3776/"SRefactor this method to reduce its Cognitive Complexity from 117 to the 15 allowed.(´Íˆšýÿÿÿÿ
+K
+java:S3740Å"/Provide the parametrized type for this generic.(Õîâ¢ùÿÿÿÿ
+8
+java:S1643¦"Use a StringBuilder instead.(Ø•ï±ÿÿÿÿÿ
+f	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖñýA
+E
+java:S3740&"/Provide the parametrized type for this generic.(Ê§”ñ
+K
+java:S3740Ù"/Provide the parametrized type for this generic.(Åµ€‡þÿÿÿÿ
+>
+java:S1481é"'Remove this unused "nf" local variable.(õ‡Ž¡
+E
+java:S3740&"/Provide the parametrized type for this generic.(Ê§”ñ
+F
+java:S2093½"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+]
+java:S2142ê"FEither re-interrupt this method or rethrow the "InterruptedException".(¹‡ìÜ
+C
+java:S1604s"(Make this anonymous inner class a lambda(­Á³…þÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(é’õ”þÿÿÿÿ
+>
+java:S1604ƒ"(Make this anonymous inner class a lambda(†· 
